@@ -2,6 +2,4 @@
 
 Dodgeball game to test random components
 
-```diff
-+Need to add online gameplay maybe idk Coronas kinda gay with how we can't make our own
-```
+Play multiplayer dodgeball with friends on Android or iOS, project is built using Lua.
